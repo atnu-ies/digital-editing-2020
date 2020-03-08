@@ -74,8 +74,5 @@ Should you wish to tweet about the ATNU/IES Textual Editing in the Digital Age w
   
 **Hashtag**: #TEDA2020  (i.e. “Textual Editing in the Digital Age 2020”)
 
-## Bursaries
-We have a small amount of money set aside to help postgraduates attend. We will email those who applied for this separately with more details.
-
 ## Feedback / Questions
 If you have any questions email the ATNU project account at animating.text@newcastle.ac.uk. We will email a link to a feedback questionnaire shortly after the event.
