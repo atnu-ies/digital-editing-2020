@@ -62,7 +62,7 @@ Please remember that we are not affiliated, nor have any deal, with any of these
 We will provide morning and afternoon coffee/tea breaks. Our venue map also includes a list of on-campus or nearby eating establishments, however we are very close to the city centre and so there are a wide range of possibilities available.
 
 ## Library visit
-On [Wednesday 1 April 2019?] we will have a slightly shorter afternoon coffee/tea break and proceed to Newcastle University’s Philip Robinson Library, to see a number of special collections material and hear about some of their digital editing projects.
+On [Wednesday 1 April 2020?] we will have a slightly shorter afternoon coffee/tea break and proceed to Newcastle University’s Philip Robinson Library, to see a number of special collections material and hear about some of their digital editing projects.
 
 ## Social Media
 Should you wish to tweet about the ATNU/IES Textual Editing in the Digital Age workshop you may feel free to mention the following accounts:
