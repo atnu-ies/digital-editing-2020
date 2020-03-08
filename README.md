@@ -59,7 +59,7 @@ We do not provide accommodation but a range of possibilities include:
 Please remember that we are not affiliated, nor have any deal, with any of these hotels — feel free to choose your own. Anything near the city centre will be a good choice for attending the workshop.
 
 ## Food/Catering
-Although we had originally intended for this training event to be catered, the popularity of it means we can no longer do so. We will provide morning and afternoon coffee/tea breaks. Our venue map also includes a list of on-campus or nearby eating establishments, however we are very close to the city centre and so there are a wide range of possibilities available.
+We will provide morning and afternoon coffee/tea breaks. Our venue map also includes a list of on-campus or nearby eating establishments, however we are very close to the city centre and so there are a wide range of possibilities available.
 
 ## Library visit
 On [Wednesday 1 April 2019?] we will have a slightly shorter afternoon coffee/tea break and proceed to Newcastle University’s Philip Robinson Library, to see a number of special collections material and hear about some of their digital editing projects.
@@ -68,13 +68,11 @@ On [Wednesday 1 April 2019?] we will have a slightly shorter afternoon coffee/te
 Should you wish to tweet about the ATNU/IES Textual Editing in the Digital Age workshop you may feel free to mention the following accounts:
   * **ATNU**: [@AnimatingTextNU](https://twitter.com/AnimatingTextNU)
   * **IES**: [@IES_London](https://twitter.com/IES_London)
-  * **Francesca Benatti**: [@RhymesOnTheRoad](https://twitter.com/RhymesOnTheRoad)
   * **James Cummings**: [@JamesCummings](https://twitter.com/JamesCummings)
   * **Christopher Ohge**: [@CMOhge](https://twitter.com/CMOhge)
   * **Tiago Sousa Garcia**: [@TiagoSousaGarci](https://twitter.com/tiagosousagarci)
-  * **Charlotte Tupman**: [@TupmanC](https://twitter.com/TupmanC)
-
-**Hashtag**: #TEDA2020  (i.e. “Textual Editing in the Digital Age 2019”)
+  
+**Hashtag**: #TEDA2020  (i.e. “Textual Editing in the Digital Age 2020”)
 
 ## Bursaries
 We have a small amount of money set aside to help postgraduates attend. We will email those who applied for this separately with more details.
