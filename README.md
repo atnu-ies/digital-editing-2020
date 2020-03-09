@@ -1,7 +1,8 @@
-# Textual Editing in the Digital Age (2020)
+# Textual Editing in the Digital Age 
+## (30 March-3 April 2020)
 ## A 5-day training event organised by Animating Text Newcastle University and the Institute of English Studies, University of London
 
-Welcome to the repo for the "Textual Editing in the Digital Age" training event (30 March-3 April 2020) at Newcastle University.
+Welcome to the repo for the "Textual Editing in the Digital Age" training event at Newcastle University.
 
 The sessions will be convened by James Cummings (Newcastle, Text Encoding Initiative) **[JC]**, Tiago Sousa Garcia (Newcastle) **[TSG]**, and Christopher Ohge (London) **[CO]**, with guest tutors Peter Stadler (Paderborn) **[PS]** and Kate Simpson (Glasgow / Livingstone Online Project) **[KS]**. The training will consist of alternating lectures and practical workshop sessions on textual editing with XML technologies, including a thorough grounding in TEI as well as introductions to XPath searching and TEI publication tools. Also planned are  presentations of case studies, a visit to Newcastle Library's Special Collections (to hear about their interesting digital editing projects). There may also be unofficial social visits to the pub some evenings.
 
